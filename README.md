@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Backend projects**
 
-- 💬 Ask me about **Node js , Node,Expres, DevOps , Servers,ORMS(sqlAlchemy). Others.**
+- 💬 Ask me about **Node js , Node,Expres, Next js , DevOps , Servers,ORMS(sqlAlchemy), Databases. Others.**
 
 - 📫 How to reach me **Kegeshaddy@gmail.com**
 
