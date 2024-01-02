@@ -6,14 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kegera" alt="kegera" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/KegeshA" target="blank"><img src="https://img.shields.io/twitter/follow/kegesha?logo=twitter&style=for-the-badge" alt="KegeshA" /></a> </p>
-
+Hello!!
+I'm a backend developer and a passionate DevOps enthusiast from Kenya. I delve into the intricacies of coding, sculpting robust systems and optimizing functionalities. My drive to harmonize development and operations fuels my quest for innovative solutions, enriching both my skills and the local tech community in Kenya's vibrant landscape.
 - 🔭 I’m currently working on **Backend development projects**
-
-- 🌱 I’m currently learning **Software Engineering-Backend Development**
-
-- 👯 I’m looking to collaborate on **Backend projects**
-
-- 💬 Ask me about **Node js , Node,Expres, Next js , DevOps , Servers,ORMS(sqlAlchemy), Databases. Others.**
 
 - 📫 How to reach me **Kegeshaddy@gmail.com**
 
